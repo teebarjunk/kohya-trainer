@@ -9,7 +9,7 @@ import time
 import json
 from multiprocessing import Value
 import toml
-
+from prodigyopt import Prodigy
 from tqdm import tqdm
 import torch
 
