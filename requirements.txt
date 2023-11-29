@@ -7,7 +7,7 @@ einops==0.7.0
 diffusers[torch]==0.23.1
 pytorch-lightning==2.1.2
 bitsandbytes==0.41.2
-tensorboard==2.15.1
+#tensorboard==2.15.1
 safetensors==0.4.1
 # gradio==3.16.2
 altair==5.2.0
