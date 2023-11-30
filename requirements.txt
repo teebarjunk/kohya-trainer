@@ -37,6 +37,6 @@ lycoris-lora==1.9.0
 # open clip for SDXL
 open-clip-torch==2.20.0
 # for kohya_ss library
-
+.
 
 
